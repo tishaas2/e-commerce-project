@@ -1,0 +1,82 @@
+[
+  {
+    "id": 1,
+    "name": "Apple iPhone 15",
+    "category": "Mobiles",
+    "price": 79999,
+    "image": "images/phone.jpg",
+    "rating": 4.8,
+    "stock": 15,
+    "description": "Apple iPhone 15 with A16 Bionic chip, 128GB storage and Super Retina XDR display."
+  },
+  {
+    "id": 2,
+    "name": "Samsung Galaxy S24",
+    "category": "Mobiles",
+    "price": 74999,
+    "image": "images/phone.jpg",
+    "rating": 4.7,
+    "stock": 20,
+    "description": "Samsung Galaxy S24 with Dynamic AMOLED display and Snapdragon processor."
+  },
+  {
+    "id": 3,
+    "name": "HP Pavilion Laptop",
+    "category": "Laptops",
+    "price": 54999,
+    "image": "images/laptop.jpg",
+    "rating": 4.6,
+    "stock": 12,
+    "description": "HP Pavilion Laptop with Intel Core i5, 16GB RAM and 512GB SSD."
+  },
+  {
+    "id": 4,
+    "name": "Dell Inspiron 15",
+    "category": "Laptops",
+    "price": 62999,
+    "image": "images/laptop.jpg",
+    "rating": 4.5,
+    "stock": 8,
+    "description": "Dell Inspiron with Intel Core i7 processor and Full HD display."
+  },
+  {
+    "id": 5,
+    "name": "Boat Rockerz 450",
+    "category": "Headphones",
+    "price": 2499,
+    "image": "images/headphone.jpg",
+    "rating": 4.4,
+    "stock": 30,
+    "description": "Wireless Bluetooth headphones with 15-hour battery backup."
+  },
+  {
+    "id": 6,
+    "name": "Sony WH-CH520",
+    "category": "Headphones",
+    "price": 6999,
+    "image": "images/headphone.jpg",
+    "rating": 4.8,
+    "stock": 18,
+    "description": "Sony wireless headphones with excellent sound quality."
+  },
+  {
+    "id": 7,
+    "name": "Nike Running Shoes",
+    "category": "Shoes",
+    "price": 4999,
+    "image": "images/shoes.jpg",
+    "rating": 4.6,
+    "stock": 22,
+    "description": "Comfortable running shoes suitable for daily workouts."
+  },
+  {
+    "id": 8,
+    "name": "Adidas Sports Shoes",
+    "category": "Shoes",
+    "price": 3999,
+    "image": "images/shoes.jpg",
+    "rating": 4.5,
+    "stock": 16,
+    "description": "Lightweight Adidas shoes with breathable mesh design."
+  }
+]
